@@ -1,7 +1,7 @@
  <div class="container">
   <form action="/action_page.php">
     <div class="row">
-      <h2 style="text-align:center">THIS MY TOMCAT SERVER</h2>
+      <h2 style="text-align:center">THIS MY TOMCAT SERVERS</h2>
       <div class="vl">
         <span class="vl-innertext">or</span>
       </div>
